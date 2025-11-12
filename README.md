@@ -4,7 +4,6 @@ A simple, lightweight PHP utility for WordPress that displays the Post, Page, an
 
 This utility is designed to be included in a theme's `functions.php` file and is built for developers who need quick access to post IDs for shortcodes, custom queries, or debugging.
 
-
 ## Features
 
 * **Show Post IDs:** Adds a new 'ID' column to the admin list tables.
